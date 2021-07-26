@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Piranha",
+  "version": "0.1",
+  "description": "Phishing Email Detector",
+  "icons": {
+    "128": "icons/icon128.png",
+    "48": "icons/icon48.png",
+    "16": "icons/icon16.png"
+  },
+  "browser_action": {
+    "default_icon": "icons/icon16.png",
+    "default_popup": "index.html"
+  }
+}
